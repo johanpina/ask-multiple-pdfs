@@ -1,4 +1,4 @@
-"""import streamlit as st
+import streamlit as st
 from dotenv import load_dotenv
 from PyPDF2 import PdfReader
 from langchain.text_splitter import CharacterTextSplitter
@@ -99,4 +99,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-"""
